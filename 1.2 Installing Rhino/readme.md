@@ -1,4 +1,4 @@
-##1.2 Installing Rhino
+## 1.2 Installing Rhino
 
 Updated  2022-01-16
 

@@ -1,4 +1,4 @@
-##2.2 Your first HB Model
+## 2.2 Your first HB Model
 
 Updated  2022-01-16
 
