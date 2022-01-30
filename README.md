@@ -12,7 +12,7 @@ Grasshopper files for conducting daylight simulations in Rhino with Ladybug Tool
 [Ladybug forums](https://discourse.ladybug.tools)
 [Pollination forums](https://discourse.pollination.cloud)
 
-Bonus lecture: Walk through of [LINK Arkitektur](https://linkarkitektur.com)'s [daylight script](https://io.linkarkitektur.com/en/news/daylight-simulation-script-runthrough)
+[Bonus lecture: Walk through of LINK Arkitektur's daylight script](https://io.linkarkitektur.com/en/news/daylight-simulation-script-runthrough)
 
 [Spider Viewer online RAD file viewer](https://www.ladybug.tools/spider-rad-viewer/rad-viewer/r7/rad-viewer.html)
 
