@@ -1,6 +1,9 @@
 ## NLITED
 Grasshopper files for conducting daylight simulations in Rhino with Ladybug Tools. Working files for the www.nlited.eu program, module 5.1
 
+These files are shared with no liability and warranty.
+Use at own risk and take professional responsibility in commercial use.
+
 ## Links:
 [Hydrashare examples](https://hydrashare.github.io/hydra/?keywords=HBExampleFiles)
 [Honeybee radiance documentation](https://www.ladybug.tools/honeybee-radiance/docs/)
