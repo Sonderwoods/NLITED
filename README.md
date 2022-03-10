@@ -48,4 +48,8 @@ Use at own risk and take professional responsibility in commercial use.
 
 [TreeSloth](https://www.food4rhino.com/en/app/treesloth)
 
+[SunGlasses](https://www.food4rhino.com/en/app/sunglasses) (allows you to see name of components on top of the component)
+![image](https://user-images.githubusercontent.com/19936679/157619115-4f60872d-3ab5-4b35-8c88-cbb6d51dc18a.png)
+
+
 
