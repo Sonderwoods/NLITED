@@ -55,4 +55,7 @@ Use at own risk and take professional responsibility in commercial use.
 ![image](https://user-images.githubusercontent.com/19936679/157619115-4f60872d-3ab5-4b35-8c88-cbb6d51dc18a.png)
 
 
+Oh and if you made it this far.
+If you know your radiance and want to use it in Grasshopper directly, check out [this repo](https://github.com/Sonderwoods/GrasshopperRadianceLinuxConnector)
+
 
