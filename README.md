@@ -27,11 +27,11 @@ Use at own risk and take professional responsibility in commercial use.
 
 ## Installation files:
 
-### Alias, Displaymodes and smaller rhino scripts
-[Bundled here](https://github.com/Sonderwoods/NLITED/raw/main/1.2%20Installing%20Rhino/Rhino%20Setup.zip)
 
 ### Rhino and LadybugTools
 [Rhino3d](https://www.rhino3d.com/download/)
+
+[Alias, Displaymodes and smaller rhino scripts](https://github.com/Sonderwoods/NLITED/raw/main/1.2%20Installing%20Rhino/Rhino%20Setup.zip)
 
 [Ladybug Tools and Pollination for Grasshopper (incl Radiance)](https://www.pollination.cloud/grasshopper-plugin)
 
