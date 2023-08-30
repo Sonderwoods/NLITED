@@ -1,0 +1,7 @@
+void plastic front_of_leaf
+00
+5 0.0838 0.1262 0.0418 0 0
+
+void plastic back_of_leaf
+00
+5 0.1450 0.1922 0.0548 0 0
